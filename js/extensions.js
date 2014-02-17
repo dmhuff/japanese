@@ -7,9 +7,9 @@
 // Handle environments that don't provide a console.
 if (typeof console === 'undefined') {
   console = {
-    debug: function () {}
+    debug: function () {},
     dir: function () {},
-    log: function () {},
+    log: function () {}
   };
 }
 
