@@ -1,1 +1,350 @@
-[{"kanji":"色","kana":"いろ","romaji":"iro","english":"colors","tags":"color"},{"kanji":"青","kana":"あお","romaji":"ao","english":"blue","tags":"color"},{"kanji":"赤","kana":"あか","romaji":"aka","english":"red","tags":"color"},{"kanji":"茶色","kana":"ちゃいろ","romaji":"chairo","english":"brown","tags":"color"},{"kanji":"橙色","kana":"だいだいいろ","romaji":"daidaiiro","english":"orange","tags":"color"},{"kanji":"灰色","kana":"はいいろ","romaji":"haiiro","english":"grey","tags":"color"},{"kanji":"黄色","kana":"きいろ","romaji":"kiiro","english":"yellow","tags":"color"},{"kanji":"黄緑","kana":"きみどり","romaji":"kimidori","english":"light green","tags":"color"},{"kanji":"黒","kana":"くろ","romaji":"kuro","english":"black","tags":"color"},{"kanji":"緑","kana":"みどり","romaji":"midori","english":"green","tags":"color"},{"kanji":"水色","kana":"みずいろ","romaji":"mizuiro","english":"light blue","tags":"color"},{"kanji":"桃色","kana":"ももいろ","romaji":"momoiro","english":"pink","tags":"color"},{"kanji":"紫","kana":"むらさき","romaji":"murasaki","english":"purple","tags":"color"},{"kanji":"白","kana":"しろ","romaji":"shiro","english":"white","tags":"color"},{"kanji":"好きな色は何ですか。","kana":"すきないろはなんですか。","romaji":"Sukina iro wa nan desu ka?","english":"What is your favorite color?","tags":"color; conversation"}]
+[
+  {
+    "kanji":"色",
+    "kana":"いろ",
+    "romaji":"iro",
+    "english":"colors",
+    "tags":"color"
+  },
+  {
+    "kanji":"青",
+    "kana":"あお",
+    "romaji":"ao",
+    "english":"blue",
+    "tags":"color"
+  },
+  {
+    "kanji":"赤",
+    "kana":"あか",
+    "romaji":"aka",
+    "english":"red",
+    "tags":"color"
+  },
+  {
+    "kanji":"茶色",
+    "kana":"ちゃいろ",
+    "romaji":"chairo",
+    "english":"brown",
+    "tags":"color"
+  },
+  {
+    "kanji":"橙色",
+    "kana":"だいだいいろ",
+    "romaji":"daidaiiro",
+    "english":"orange",
+    "tags":"color"
+  },
+  {
+    "kanji":"灰色",
+    "kana":"はいいろ",
+    "romaji":"haiiro",
+    "english":"grey",
+    "tags":"color"
+  },
+  {
+    "kanji":"黄色",
+    "kana":"きいろ",
+    "romaji":"kiiro",
+    "english":"yellow",
+    "tags":"color"
+  },
+  {
+    "kanji":"黄緑",
+    "kana":"きみどり",
+    "romaji":"kimidori",
+    "english":"light green",
+    "tags":"color"
+  },
+  {
+    "kanji":"黒",
+    "kana":"くろ",
+    "romaji":"kuro",
+    "english":"black",
+    "tags":"color"
+  },
+  {
+    "kanji":"緑",
+    "kana":"みどり",
+    "romaji":"midori",
+    "english":"green",
+    "tags":"color"
+  },
+  {
+    "kanji":"水色",
+    "kana":"みずいろ",
+    "romaji":"mizuiro",
+    "english":"light blue",
+    "tags":"color"
+  },
+  {
+    "kanji":"桃色",
+    "kana":"ももいろ",
+    "romaji":"momoiro",
+    "english":"pink",
+    "tags":"color"
+  },
+  {
+    "kanji":"紫",
+    "kana":"むらさき",
+    "romaji":"murasaki",
+    "english":"purple",
+    "tags":"color"
+  },
+  {
+    "kanji":"白",
+    "kana":"しろ",
+    "romaji":"shiro",
+    "english":"white",
+    "tags":"color"
+  },
+  {
+    "kanji":"好きな色は何ですか。",
+    "kana":"すきないろはなんですか。",
+    "romaji":"Sukina iro wa nan desu ka?",
+    "english":"What is your favorite color?",
+    "tags":"color; conversation"
+  },
+  {
+    "number": "1",
+    "kanji": "一",
+    "strokes": "1",
+    "english": "one",
+    "kana": "いち；ひとつ",
+    "romaji": "ichi; hito-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "2",
+    "kanji": "二",
+    "strokes": "2",
+    "english": "two",
+    "kana": "に；ふたつ",
+    "romaji": "ni; futa-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "3",
+    "kanji": "三",
+    "strokes": "3",
+    "english": "three",
+    "kana": "さん；みっつ",
+    "romaji": "san; mit-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "4",
+    "kanji": "四",
+    "strokes": "5",
+    "english": "four",
+    "kana": "よん／し；よっつ",
+    "romaji": "you/shi; yot-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "5",
+    "kanji": "五",
+    "strokes": "4",
+    "english": "five",
+    "kana": "ご；いつつ",
+    "romaji": "go; itsu-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "6",
+    "kanji": "六",
+    "strokes": "4",
+    "english": "six",
+    "kana": "ろく；むっつ",
+    "romaji": "roku; mut-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "7",
+    "kanji": "七",
+    "strokes": "2",
+    "english": "seven",
+    "kana": "なな／しち；ななつ",
+    "romaji": "nana/shichi; nana-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "8",
+    "kanji": "八",
+    "strokes": "2",
+    "english": "eight",
+    "kana": "はち／やっつ",
+    "romaji": "hachi; yat-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "9",
+    "kanji": "九",
+    "strokes": "2",
+    "english": "nine",
+    "kana": "きゅう；ここのつ",
+    "romaji": "kyū; kokono-tsu",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "10",
+    "kanji": "十",
+    "strokes": "2",
+    "english": "ten",
+    "kana": "じゅ／とお",
+    "romaji": "jū; tō",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "11",
+    "kanji": "百",
+    "strokes": "6",
+    "english": "hundred",
+    "kana": "ひゃく",
+    "romaji": "hyaku",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "12",
+    "kanji": "千",
+    "strokes": "3",
+    "english": "thousand",
+    "kana": "せん",
+    "romaji": "sen",
+    "tags": "Grade 1; Numbers"
+  },
+  {
+    "number": "13",
+    "kanji": "上",
+    "strokes": "3",
+    "english": "top",
+    "kana": "じょ；　うえ",
+    "romaji": "jō; ue",
+    "tags": "Grade 1; Direction"
+  },
+  {
+    "number": "14",
+    "kanji": "下",
+    "strokes": "3",
+    "english": "below",
+    "kana": "した",
+    "romaji": "shita",
+    "tags": "Grade 1; Direction"
+  },
+  {
+    "number": "15",
+    "kanji": "左",
+    "strokes": "5",
+    "english": "left",
+    "kana": "ひだり",
+    "romaji": "hidari",
+    "tags": "Grade 1; Direction"
+  },
+  {
+    "number": "16",
+    "kanji": "右",
+    "strokes": "5",
+    "english": "right",
+    "kana": "みぎ",
+    "romaji": "migi",
+    "tags": "Grade 1; Direction"
+  },
+  {
+    "number": "17",
+    "kanji": "中",
+    "strokes": "4",
+    "english": "inside, middle",
+    "kana": "なか",
+    "romaji": "naka",
+    "tags": "Grade 1; Direction"
+  },
+  {
+    "number": "18",
+    "kanji": "大",
+    "strokes": "3",
+    "english": "large",
+    "kana": "おおきい",
+    "romaji": "ō-kii",
+    "tags": "Grade 1; Size"
+  },
+  {
+    "number": "19",
+    "kanji": "小",
+    "strokes": "3",
+    "english": "small",
+    "kana": "ちいさい",
+    "romaji": "chii-sai",
+    "tags": "Grade 1; Size"
+  },
+  {
+    "number": "20",
+    "kanji": "月",
+    "strokes": "4",
+    "english": "month; moon",
+    "kana": "がつ；つき",
+    "romaji": "-gatsu; tsuki",
+    "tags": "Grade 1; Time; Nature"
+  },
+  {
+    "number": "21",
+    "kanji": "日",
+    "strokes": "4",
+    "english": "day; sun",
+    "kana": "にち；ひ",
+    "romaji": "-nichi; hi",
+    "tags": "Grade 1; Time; Nature"
+  },
+  {
+    "number": "22",
+    "kanji": "年",
+    "strokes": "6",
+    "english": "year",
+    "kana": "とし；ねん",
+    "romaji": "toshi; nen",
+    "tags": "Grade 1; Time"
+  },
+  {
+    "number": "23",
+    "kanji": "早",
+    "strokes": "6",
+    "english": "early",
+    "kana": "はやい",
+    "romaji": "haya-i",
+    "tags": "Grade 1; Time"
+  },
+  {
+    "number": "24",
+    "kanji": "木",
+    "strokes": "4",
+    "english": "tree",
+    "kana": "き",
+    "romaji": "ki",
+    "tags": "Grade 1; Nature"
+  },
+  {
+    "number": "25",
+    "kanji": "林",
+    "strokes": "8",
+    "english": "woods",
+    "kana": "はやし",
+    "romaji": "hayashi",
+    "tags": "Grade 1; Nature"
+  },
+  {
+    "number": "26",
+    "kanji": "山",
+    "strokes": "3",
+    "english": "mountain",
+    "kana": "やま",
+    "romaji": "yama",
+    "tags": "Grade 1; Nature"
+  },
+  {
+    "number": "27",
+    "kanji": "川",
+    "strokes": "3",
+    "english": "river",
+    "kana": "かわ",
+    "romaji": "kawa",
+    "tags": "Grade 1; Nature"
+  }
+]
