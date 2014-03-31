@@ -346,5 +346,1075 @@
     "kana": "かわ",
     "romaji": "kawa",
     "tags": "Grade 1; Nature"
+  },
+    {
+    "romaji": "a",
+    "kana": "あ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "e",
+    "kana": "い",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "u",
+    "kana": "う",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "e",
+    "kana": "え",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "o",
+    "kana": "お",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ka",
+    "kana": "か",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ki",
+    "kana": "き",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ku",
+    "kana": "く",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ke",
+    "kana": "け",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ko",
+    "kana": "こ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "sa",
+    "kana": "さ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "shi",
+    "kana": "し",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "su",
+    "kana": "す",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "se",
+    "kana": "せ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "so",
+    "kana": "そ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ta",
+    "kana": "た",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "chi",
+    "kana": "ち",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "tsu",
+    "kana": "つ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "te",
+    "kana": "て",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "to",
+    "kana": "と",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "na",
+    "kana": "な",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ni",
+    "kana": "に",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "nu",
+    "kana": "ぬ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ne",
+    "kana": "ね",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "no",
+    "kana": "の",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ha",
+    "kana": "は",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "hi",
+    "kana": "ひ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "hu",
+    "kana": "ふ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "he",
+    "kana": "へ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ho",
+    "kana": "ほ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ma",
+    "kana": "ま",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "mi",
+    "kana": "み",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "mu",
+    "kana": "む",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "me",
+    "kana": "め",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "mo",
+    "kana": "も",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ya",
+    "kana": "や",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "yu",
+    "kana": "ゆ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "yo",
+    "kana": "よ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ra",
+    "kana": "ら",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ri",
+    "kana": "り",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ru",
+    "kana": "る",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "re",
+    "kana": "れ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ro",
+    "kana": "ろ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "wa",
+    "kana": "わ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "wo",
+    "kana": "を",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ga",
+    "kana": "が",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "gi",
+    "kana": "ぎ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "gu",
+    "kana": "ぐ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ge",
+    "kana": "げ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "go",
+    "kana": "ご",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "za",
+    "kana": "ざ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ji",
+    "kana": "じ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "zu",
+    "kana": "ず",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ze",
+    "kana": "ぜ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "zo",
+    "kana": "ぞ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "da",
+    "kana": "だ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ji",
+    "kana": "ぢ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "zu",
+    "kana": "づ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "de",
+    "kana": "で",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "do",
+    "kana": "ど",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ba",
+    "kana": "ば",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "bi",
+    "kana": "び",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "bu",
+    "kana": "ぶ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "be",
+    "kana": "べ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "bo",
+    "kana": "ぼ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "pa",
+    "kana": "ぱ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "pi",
+    "kana": "ぴ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "pu",
+    "kana": "ぷ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "pe",
+    "kana": "ぺ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "po",
+    "kana": "ぽ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "kya",
+    "kana": "きゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "kyu",
+    "kana": "きゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "kyo",
+    "kana": "きょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "sha",
+    "kana": "しゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "shu",
+    "kana": "しゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "sho",
+    "kana": "しょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "cha",
+    "kana": "ちゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "chu",
+    "kana": "ちゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "cho",
+    "kana": "ちょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "nya",
+    "kana": "にゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "nyu",
+    "kana": "にゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "nyo",
+    "kana": "にょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "hya",
+    "kana": "ひゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "hyu",
+    "kana": "ひゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "hyo",
+    "kana": "ひょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "mya",
+    "kana": "みゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "myu",
+    "kana": "みゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "myo",
+    "kana": "みょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "rya",
+    "kana": "りゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ryu",
+    "kana": "りゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "ryo",
+    "kana": "りょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "gya",
+    "kana": "ぎゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "gyu",
+    "kana": "ぎゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "gyo",
+    "kana": "ぎょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "jya",
+    "kana": "じゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "jyu",
+    "kana": "じゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "jyo",
+    "kana": "じょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "dya",
+    "kana": "ぢゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "dyu",
+    "kana": "ぢゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "dyo",
+    "kana": "ぢょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "bya",
+    "kana": "びゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "byu",
+    "kana": "びゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "byo",
+    "kana": "びょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "pya",
+    "kana": "ぴゃ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "pyu",
+    "kana": "ぴゅ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "pyo",
+    "kana": "ぴょ",
+    "tags": "hiragana; kana"
+  },
+  {
+    "romaji": "a",
+    "kana": "ア",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "i",
+    "kana": "イ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "u",
+    "kana": "ウ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "e",
+    "kana": "エ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "o",
+    "kana": "オ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ka",
+    "kana": "カ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ki",
+    "kana": "キ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ku",
+    "kana": "ク",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ke",
+    "kana": "ケ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ko",
+    "kana": "コ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "kya",
+    "kana": "キャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "kyu",
+    "kana": "キュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "kyo",
+    "kana": "キョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "sa",
+    "kana": "サ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "shi",
+    "kana": "シ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "su",
+    "kana": "ス",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "se",
+    "kana": "セ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "so",
+    "kana": "ソ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "sha",
+    "kana": "シャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "shu",
+    "kana": "シュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "sho",
+    "kana": "ショ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ta",
+    "kana": "タ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "chi",
+    "kana": "チ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "tsu",
+    "kana": "ツ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "te",
+    "kana": "テ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "to",
+    "kana": "ト",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "cha",
+    "kana": "チャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "chu",
+    "kana": "チュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "cho",
+    "kana": "チョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "na",
+    "kana": "ナ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ni",
+    "kana": "ニ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "nu",
+    "kana": "ヌ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ne",
+    "kana": "ネ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "no",
+    "kana": "ノ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "nya",
+    "kana": "ニャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "nyu",
+    "kana": "ニュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "nyo",
+    "kana": "ニョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ha",
+    "kana": "ハ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "hi",
+    "kana": "ヒ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "hu",
+    "kana": "フ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "he",
+    "kana": "ヘ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ho",
+    "kana": "ホ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "hya",
+    "kana": "ヒャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "hyu",
+    "kana": "ヒュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "hyo",
+    "kana": "ヒョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ma",
+    "kana": "マ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "mi",
+    "kana": "ミ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "mu",
+    "kana": "ム",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "me",
+    "kana": "メ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "mo",
+    "kana": "モ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "mya",
+    "kana": "ミャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "myu",
+    "kana": "ミュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "myo",
+    "kana": "ミョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ya",
+    "kana": "ヤ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "yu",
+    "kana": "ユ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "yo",
+    "kana": "ヨ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ra",
+    "kana": "ラ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ri",
+    "kana": "リ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ru",
+    "kana": "ル",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "re",
+    "kana": "レ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ro",
+    "kana": "ロ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "rya",
+    "kana": "リャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ryu",
+    "kana": "リュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ryo",
+    "kana": "リョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "wa",
+    "kana": "ワ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "wi",
+    "kana": "ヰ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "we",
+    "kana": "ヱ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "wo",
+    "kana": "ヲ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ga",
+    "kana": "ガ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "gi",
+    "kana": "ギ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "gu",
+    "kana": "グ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ge",
+    "kana": "ゲ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "go",
+    "kana": "ゴ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "gya",
+    "kana": "ギャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "gyu",
+    "kana": "ギュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "gyo",
+    "kana": "ギョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "za",
+    "kana": "ザ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ji",
+    "kana": "ジ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "zu",
+    "kana": "ズ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ze",
+    "kana": "ゼ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "zo",
+    "kana": "ゾ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ja",
+    "kana": "ジャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ju",
+    "kana": "ジュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "jo",
+    "kana": "ジョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "da",
+    "kana": "ダ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ji",
+    "kana": "ヂ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "zu",
+    "kana": "ヅ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "de",
+    "kana": "デ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "do",
+    "kana": "ド",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ja",
+    "kana": "ヂャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ju",
+    "kana": "ヂュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "jo",
+    "kana": "ヂョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "ba",
+    "kana": "バ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "bi",
+    "kana": "ビ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "bu",
+    "kana": "ブ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "be",
+    "kana": "ベ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "bo",
+    "kana": "ボ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "bya",
+    "kana": "ビャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "byu",
+    "kana": "ビュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "byo",
+    "kana": "ビョ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "pa",
+    "kana": "パ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "pi",
+    "kana": "ピ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "pu",
+    "kana": "プ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "pe",
+    "kana": "ペ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "po",
+    "kana": "ポ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "pya",
+    "kana": "ピャ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "pyu",
+    "kana": "ピュ",
+    "tags": "katakana;kana"
+  },
+  {
+    "romaji": "pyo",
+    "kana": "ピョ",
+    "tags": "katakana;kana"
   }
 ]
