@@ -8,8 +8,10 @@
 if (typeof console === 'undefined') {
   console = {
     debug: function () {},
-    dir: function () {},
-    log: function () {}
+    dir:   function () {},
+    info:  function () {},
+    log:   function () {},
+    warn:  function () {}
   };
 }
 

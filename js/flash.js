@@ -56,15 +56,37 @@ var Flash = new function () {
     function renderCard(index) {
       var card = vocabList[index],
           questions = $('#card_div .card .question'),
-          answers = $('#card_div .card .answer');
+          answers = $('#card_div .card .answer'),
+          displayText = '',
+          noText = false;
 
       questions.hide();
       answers.hide();
 
-      for (key in card) {
-        questions.children('.card_text.' + key).text(card[key]);
-        answers.children('.card_text.' + key).text(card[key]);
+      // for (key in card) {
+        // questions.children('.card_text.' + key).text(card[key]);
+        // answers.children('.card_text.' + key).text(card[key]);
+      // }
+
+      for (key in Flash.VALUES) {
+        // Make sure there is something to display to the user.
+        displayText = card[key];
+        noText = _.isUndefined(displayText);
+
+        if (noText) {
+          displayText = 'n/a';
+        }
+
+        // Fill in the flash card.
+        questions.children('.card_text.' + key).text(displayText)
+          .removeClass('no-display-text')
+          .addClass(noText ? 'no-display-text' : '');
+        answers.children('.card_text.' + key).text(displayText)
+          .removeClass('no-display-text')
+          .addClass(noText ? 'no-display-text' : '');
       }
+      // _.each(VALUES, function (v) {
+      // });
 
       $('#card_div .card .question').fadeIn();
       cardAnswer = false;
@@ -136,9 +158,6 @@ var Flash = new function () {
       selections.push(selectedButtons[i].value);
     }
     return selections;
-
-    // return $(selector).children('button.active').map(
-        // function () { return this.value; });
   }
 
   /**
@@ -165,7 +184,7 @@ var Flash = new function () {
     // Limit the vocab list to a set of cards matching the selected tag.
     if (typeof cardSet !== 'undefined' && cardSet !== 'all') {
       options.vocab = _.select(cardList, function (v) {
-        return v.tags.split(/;\s*/).indexOf(cardSet) >= 0; // TODO extract regex to constant (it's used elswhere).
+        return v.tags.split(/;\s*/).indexOf(cardSet) >= 0;
       });
     } else {
       options.vocab = cardList;
@@ -215,10 +234,16 @@ var Flash = new function () {
   /** Fill the cart set UI select control with options. */
   this.fillCardSet = function (cardList) {
     var select = $('select#input_cart_set'),
-        tags = _.uniq(_.flatten(_.map(cardList, function (w) { return w.tags.split(/;\s*/); } ))).sort();
+        tags = [];
 
+    // Pull out a list of unique tags.
+    tags = _.uniq(_.flatten(_.map(cardList, function (c) { return c.tags.split(/;\s*/); } )));
+    // Capitalize and sort the tags.
+    tags = _.map(tags, function (t) { return t.capitalize(); } ).sort();
+
+    // Fill the combo box.
     _.each(tags, function (t) {
-      select.append('<option value="' + t + '">' + t.capitalize() + '</option>');
+      select.append('<option value="' + t + '">' + t + '</option>');
     });
   };
 
@@ -237,7 +262,7 @@ $(function () {
   function startApp(cardList) {
     // Setup the header.
     $('#reset_button').click(Flash.reset);
-    $('#start_button').click(function () { Flash.begin(cardList); }); // HACK fix how card list is passed to deck object.
+    $('#start_button').click(function () { Flash.begin(cardList); });
     $('body').on('click', '#autoplay_button', function () {
       if ($(this).hasClass('active')) {
         this.__timeout = setInterval(function () {

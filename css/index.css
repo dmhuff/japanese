@@ -1,6 +1,13 @@
 .card {
   text-align: center;
+  cursor: pointer;
 }
 
+.no-display-text {
+  color: gainsboro !important;
+  font-weight: normal !important;
+}
 
-
+.answer {
+  color: #0e90d2;
+}
